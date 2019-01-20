@@ -1,5 +1,5 @@
 # resume
-
+Last update : 2019 01 20
 ## Base Informations
 
 |Key  |Value  |
@@ -39,6 +39,18 @@
 ## Other information
 ### portfolio
 See https://yuzuka4573.github.io/YzkPortfolio/  
+### Events / Works    
+|Term|Detail|  
+|---|---|  
+|2017/10/xx|Got Prize in "Patent Contest"|  
+|2018/02/18 - Now...?|Unity Motion Record system Develop and Vtuber [ REDACTED ]'s xR Engineer|  
+|2018/04/xx|Freelance for small electric component campany to make Arduino Nano Compatible board |  
+|2018/08/16-2018/09/01|Went to Infinite loop for internship|  
+|2018/09/03-2018/09/21|Went to mercari.inc for internship|  
+|2018/12/07|Got Patent registration|  
+|2018/12/23,2018/12/28|Freelance for xR Developer(Museum Content Debugger and Developer)|  
+|2019/01/03|Starting Vtuber works|  
+
 ### tools
 - Visual Studio
 - Unity
@@ -47,11 +59,11 @@ See https://yuzuka4573.github.io/YzkPortfolio/
 - Aviutl
 - Photoshop
 - Illustrator
-- Atom
+- Atom(Editor)
 - SourceTree
 - Slack
 - Office 360
-- Kinect
+- Kinect v2  
 - DIY 3D printer
 - Arduino
 - Raspberry Pi
