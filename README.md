@@ -50,6 +50,7 @@ See https://yuzuka4573.github.io/YzkPortfolio/
 |2018/12/07|Got Patent registration|  
 |2018/12/23,2018/12/28|Freelance for xR Developer(Museum Content Debugger and Developer)|  
 |2019/01/03|Starting Vtuber works|  
+|2019/01/03|Got 1st prize in my University classes (AI Virtual Youtuber System v1)|
 
 ### tools
 - Visual Studio
