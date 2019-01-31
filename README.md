@@ -73,7 +73,7 @@ See https://yuzuka4573.github.io/YzkPortfolio/
 - Oculus Go
   
 ### Support
-I need enouhg money to do my work!!!  
+I need enou money to do my work!!!  
 Pixiv FANBOX : https://www.pixiv.net/fanbox/creator/31349134  
 Kyash  
 <a href="https://gyazo.com/ffddc13def0dbb24252ad5a888331753"><img src="https://i.gyazo.com/ffddc13def0dbb24252ad5a888331753.jpg" alt="Image from Gyazo" width="425"/></a>
