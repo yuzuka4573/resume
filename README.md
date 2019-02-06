@@ -51,6 +51,7 @@ See https://yuzuka4573.github.io/YzkPortfolio/
 |2018/12/23,2018/12/28|Freelance for xR Developer(Museum Content Debugger and Developer)|  
 |2019/01/03|Starting Vtuber works|  
 |2019/01/03|Got 1st prize in my University classes (AI Virtual Youtuber System v1)|
+|2019/01/28|Make "Semi-Automatic Virtual Youtuber System"|
 
 ### tools
 - Visual Studio
@@ -63,17 +64,17 @@ See https://yuzuka4573.github.io/YzkPortfolio/
 - Atom(Editor)
 - SourceTree
 - Slack
-- Office 360
+- Office 365
 - Kinect v2  
 - DIY 3D printer
 - Arduino
 - Raspberry Pi
 - HTC Vive
 - (Oculus Rift)
-- Oculus Go
-  
+- Oculus Go  
+
 ### Support
-I need enou money to do my work!!!  
+I need enough money to do my work!!!  
 Pixiv FANBOX : https://www.pixiv.net/fanbox/creator/31349134  
 Kyash  
 <a href="https://gyazo.com/ffddc13def0dbb24252ad5a888331753"><img src="https://i.gyazo.com/ffddc13def0dbb24252ad5a888331753.jpg" alt="Image from Gyazo" width="425"/></a>
