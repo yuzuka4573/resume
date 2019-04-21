@@ -42,16 +42,18 @@ See https://yuzuka4573.github.io/YzkPortfolio/
 ### Events / Works    
 |Term|Detail|  
 |---|---|  
+|2016/04/xx - 2017/03/xx|Develop the VR content "Fukushima RMI" with [Dr. Michael Vallance](http://www.mvallance.net/)|  
 |2017/10/xx|Got Prize in "Patent Contest"|  
 |2018/02/18 - Now...?|Unity Motion Record system Develop and Vtuber [ REDACTED ]'s xR Engineer|  
+|2018/02/xx|Develop the Arduino nano Compatible board with Abideal ICE JP Co, Ltd|  
 |2018/04/xx|Freelance for small electric component campany to make Arduino Nano Compatible board |  
 |2018/08/16-2018/09/01|Went to Infinite loop for internship|  
 |2018/09/03-2018/09/21|Went to mercari.inc for internship|  
 |2018/12/07|Got Patent registration|  
 |2018/12/23,2018/12/28|Freelance for xR Developer(Museum Content Debugger and Developer)|  
 |2019/01/03|Starting Vtuber works|  
-|2019/01/03|Got 1st prize in my University classes (AI Virtual Youtuber System v1)|
-|2019/01/28|Make "Semi-Automatic Virtual Youtuber System"|
+|2019/01/03|Got 1st prize in my University classes (AI Virtual Youtuber System v1)|  
+|2019/01/28|Make "Semi-Automatic Virtual Youtuber System"|  
 
 ### tools
 - Visual Studio
